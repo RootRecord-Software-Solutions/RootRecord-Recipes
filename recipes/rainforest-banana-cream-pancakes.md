@@ -2,33 +2,35 @@
 
 **From the Pāhoehoe Gardens kitchen — original recipe by Alex**
 
-Buttermilk pancakes with banana pudding flavor and cinnamon, topped with sliced fresh bananas and generous globs of Nutella.
+**Style: Cook by feel — no measuring.**
 
-## Ingredients
+Buttermilk pancakes flavored with banana pudding mix and cinnamon, topped with sliced bananas and generous globs of Nutella.
 
-- Krusteaz buttermilk pancake mix (or similar just-add-water pancake mix)
+## What goes in
+
+- Krusteaz buttermilk pancake mix
 - Banana pudding mix
-- Ground cinnamon
-- Water, as directed for the pancake mix (adjust as needed for batter consistency)
+- Cinnamon
+- Water
 - Fresh bananas, sliced
-- Nutella chocolate-hazelnut spread, generously applied
+- Nutella — generous globs
 
-**Measurements:** Alex's original method was shared without exact quantities. Adjust pudding mix, cinnamon, and water to taste and the desired batter consistency; quantities below are intentionally not invented.
+No measured amounts: Alex doesn't measure ingredients when cooking. Make as much as you want and adjust by feel.
 
-## Method
+## How to make them
 
-1. Combine the buttermilk pancake mix, banana pudding mix, and cinnamon.
-2. Add water gradually, stirring until the batter reaches a workable pancake consistency. Follow the pancake mix's cooking guidance.
-3. Cook pancakes on a heated, lightly greased griddle or skillet, flipping when ready, until cooked through.
-4. Serve topped with fresh banana slices.
-5. Add generous globs of Nutella.
+1. Put some buttermilk pancake mix in a bowl.
+2. Mix in banana pudding mix and cinnamon by feel.
+3. Stir in water until the batter has the consistency you like for pancakes. If too thick, add more water; if too thin, add more pancake mix.
+4. Cook the pancakes on a skillet or griddle until done, turning as needed.
+5. Top with sliced fresh bananas and generous globs of Nutella.
 
-## Kitchen notes
+## Notes from the kitchen
 
-- The banana flavor is **both inside the pancake batter** (from banana pudding mix) **and on top** (from sliced bananas).
-- Cinnamon goes into the batter, not just on top.
-- Nutella is the favored topping; the generous amount is part of the original concept.
-- Cooking sequence and water adjustment are practical guidance, not a verbatim account of Alex's process.
-- Exact proportions, pudding mix type, and yield are not yet documented.
+- Banana pudding mix and cinnamon are **in the pancake batter**.
+- Sliced bananas and Nutella go **on top**.
+- This is Alex's original combination, not a standardized, measured formula.
+- Batter adjustment and skillet instructions are practical cooking guidance; Alex hasn't specified an exact cooking procedure or amounts.
+- The defining rule: **cook by feel, not by measuring cups.**
 
-*Recorded October 16, 2026.*
+*First recorded October 16, 2026. Updated to reflect Alex's no-measuring cooking style.*
