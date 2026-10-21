@@ -13,6 +13,7 @@ Welcome to RootRecord Recipes: approachable, flavorful meals with clear instruct
 
 ### Breakfast
 
+- [How Alex Makes Coffee](recipes/how-alex-makes-coffee.md) — The official hot, evaporated-milk, concentrate-first coffee and Alex's recycled Pepsi-bottle instant coffee made with room-temperature water. Rainwater-specific steps remain unconfirmed.
 - [Rainforest Banana Cream Pancakes](recipes/rainforest-banana-cream-pancakes.md) — Alex's buttermilk pancakes with banana pudding mix and cinnamon in the batter, topped with fresh bananas and generous Nutella.
 
 ## About
