@@ -1,6 +1,6 @@
 # Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)
 
-**October 20, 2026 · In-progress, pepper-free tomato-and-gravy variation**
+**October 20, 2026 · Cooked and taste-tested; pepper-free tomato-and-gravy variation**
 
 This is a separate variation of [Volcanic Sausage Bean Mac](volcanic-sausage-bean-mac.md), cooked at Pāhoehoe Gardens. Alex explicitly clarified: **"No baked beans this time."** The original pepper-and-baked-bean recipe stays unchanged.
 
@@ -49,11 +49,13 @@ Amounts copied from the original are provided as a *reference*, **not** as verif
 | 1 can refried beans | Not confirmed this time |
 | Chinese sausage, macaroni, onion | Retained as the reported core |
 | No tomato paste or gravy mix | 1 can tomato paste; gravy packet shown |
-| Sweet and gently spicy | Flavor and heat not yet taste-tested or described |
+| Sweet and gently spicy | Alex's taste-test verdict: **“Is good.”** Specific flavor and heat characteristics were not described |
 
 ## Follow-up notes
 
-Still to confirm: bean variety and quantity; whether refried beans were included; how much of the gravy packet was used; exact sausage quantity and cooking time; tomato paste size; final taste and thickness. **The sausage sequence is now confirmed: whole in the macaroni/onion pot → removed and sliced → returned to the mixture.** **Do not infer a completed taste test from progress photos.**
+**Taste test completed:** Alex shared a photo of a plated bowl containing macaroni, visible whole beans, thick-cut Chinese sausage and red-orange sauce, and reported **“Is good.”** This confirms a positive overall verdict, not detailed notes about sweetness, salt, heat, or texture. The final photo remains in the source conversation; it has not been uploaded to the repository.
+
+Still to confirm: bean variety and quantity; whether refried beans were included; how much of the gravy packet was used; exact sausage quantity and cooking time; tomato paste can size; and any more specific flavor and thickness notes. **The sausage sequence is confirmed: whole in the macaroni/onion pot → removed and sliced → returned to the mixture.**
 
 ---
 
