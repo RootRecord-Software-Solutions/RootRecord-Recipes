@@ -1,48 +1,60 @@
-# Volcanic Sausage Bean Mac — Quiet Eruption
+# Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)
 
-**Tomato-paste variation · No peppers**
+**October 20, 2026 · In-progress, pepper-free tomato-and-gravy variation**
 
-A pepper-free variation of [Volcanic Sausage Bean Mac](volcanic-sausage-bean-mac.md), from Pāhoehoe Gardens. It keeps the Chinese-style sausage, elbow macaroni, onion, and hearty baked-bean base, but replaces the jalapeños and Hawaiian chili peppers with a can of tomato paste for a richer, tangier sauce.
+This is a separate variation of [Volcanic Sausage Bean Mac](volcanic-sausage-bean-mac.md), cooked at Pāhoehoe Gardens. Alex explicitly clarified: **"No baked beans this time."** The original pepper-and-baked-bean recipe stays unchanged.
 
-**Status:** Variation described by Alex on October 20, 2026, while cooking. The final taste and precise tomato-paste can size were not yet reported. The instructions below adapt the original documented method and include a suggested way to incorporate the paste.
+## What Alex reported or showed during cooking
 
-## Ingredients
+- **Elbow macaroni, chopped onions, and Chinese-style sausage:** the stated meal ingredients.
+- **No jalapeños or Hawaiian chili peppers** on this occasion.
+- **One can of tomato paste** was planned and the later pot photograph shows a tomato-red sauce. The can size was not supplied.
+- A packet of **Great Value Reduced Sodium Brown Gravy Mix**, 0.87 oz (24 g), was photographed beside the pot with the comment "Fuck it." **Whether the full packet had already been stirred in was not explicitly confirmed.**
+- A following photo, captioned **"Beans in,"** shows whole beans in the tomato-red macaroni mixture. **Bean type and quantity have not been identified.**
+- **No baked beans.** This overrides the earlier assumption that today's batch used Bush's baked beans.
+- **Refried beans:** part of the original recipe, but their use **has not been confirmed** for today's version.
 
-- 1 lb elbow macaroni
-- 1 onion, chopped
-- Approximately 21 oz Kam Yen Jan Chinese-style sausage, sliced (about half a 42 oz package)
-- 1 can refried beans
-- 2 cans Bush's baked beans (the original recipe specifies brown sugar pork and beans)
-- 1 can tomato paste (**can size not yet recorded**)
-- Water for boiling macaroni, with a little starchy cooking water reserved before draining
-- **No jalapeños or Hawaiian chili peppers in this version**
+## Working ingredient list
 
-## Cooking method — adapted from the original
+Amounts copied from the original are provided as a *reference*, **not** as verified quantities in today's pot.
 
-1. Put the elbow macaroni and chopped onion in a pot of water. Cook until the pasta is tender; the onion softens in the pasta water, without a separate sauté step.
-2. Fully cook the sliced Chinese-style sausage according to the package directions. It can be cooked separately or with the pasta only if its cooking requirements are met.
-3. Reserve a little starchy pasta water, then drain the excess. Keep the macaroni and onion moist, not soupy.
-4. **Suggested tomato-paste step:** Stir in the can of tomato paste with a small splash of the reserved water. Warm briefly over low heat while stirring so the paste spreads evenly and loses some of its raw flavor. Add more reserved water as needed; the beans will make the mixture thicker.
-5. Remove from the heat and stir in the refried beans and two cans of Bush's baked beans. Return to gentle heat if needed, stirring until hot throughout.
-6. Fold in the fully cooked sausage and serve warm.
-
-## How this differs from the original
-
-| Original Volcanic Sausage Bean Mac | Quiet Eruption variation |
+| Ingredient | Amount / status |
 | --- | --- |
-| 3 chopped jalapeños | Omitted |
-| 4 halved Hawaiian chili peppers | Omitted |
-| Sweet baked-bean base | Sweet baked-bean base plus 1 can tomato paste |
-| Gentle lingering chili warmth | No intended chili heat; extra tomato tang and thickness |
-| Onion cooked with pasta | Same fuel-conscious approach |
+| Elbow macaroni | Present; original reference: 1 lb |
+| Onion, chopped | Present; original reference: 1 |
+| Chinese-style sausage | Intended as reported; original reference: approx. 21 oz Kam Yen Jan |
+| Tomato paste | 1 can reported; size unspecified |
+| Whole beans (not baked beans) | Visibly added; type and amount still unknown |
+| Reduced-sodium brown gravy mix | One 24 g Great Value packet shown; actual amount used not yet confirmed |
+| Refried beans | **Unconfirmed; do not assume added** |
+| Jalapeños / Hawaiian chili peppers | **Omitted** |
+| Bush's baked beans | **Omitted** |
+| Water / reserved macaroni water | For cooking and adjusting sauce texture; amount not recorded |
 
-## Practical notes
+## Cooking approach
 
-- **Fuel-conscious:** Boiling onion with the macaroni avoids an additional pan; beans can be added near the end and warmed through.
-- **Texture:** The tomato paste and refried beans can thicken the sauce significantly. Reserved cooking water helps adjust it without wasting extra fuel.
-- **Expected flavor, not yet taste-tested:** More tomato tang and savory depth, less pepper warmth; the sausage and baked beans still bring sweetness.
-- **To record after cooking:** Confirm tomato-paste can size, exact baked-bean variety, how the paste was added, and the final flavor.
+1. **As established in the original:** cook macaroni and chopped onion together in water until tender, allowing the onion to flavor the cooking water. The photograph shows macaroni and onions in the pot.
+2. Cook the Chinese sausage completely according to the package instructions, separately or with the pasta only if the method permits proper cooking. **The exact step used today has not been confirmed.**
+3. Add tomato paste to the moist macaroni mixture, thinning with cooking water as needed. The pot is visibly tomato-red in later photos; exact timing and liquid amounts are not documented.
+4. Add the whole beans and heat through. **The photo confirms this step, but does not identify the beans.**
+5. **If using the photographed gravy packet:** disperse the powder in cool liquid first according to its directions to avoid clumping, then heat and stir until thickened. **This is a suggested method, not an assertion of the steps Alex used.**
+6. Incorporate the fully cooked sausage. Exact timing and finished consistency remain to be recorded.
+
+## What changed from the original
+
+| Original Volcanic Sausage Bean Mac | October 20 Quiet Eruption |
+| --- | --- |
+| 3 jalapeños plus 4 Hawaiian chili peppers | No peppers |
+| 2 cans Bush's brown sugar pork and beans | **No baked beans** |
+| 1 can refried beans | Not confirmed this time |
+| Chinese sausage, macaroni, onion | Retained as the reported core |
+| No tomato paste or gravy mix | 1 can tomato paste; gravy packet shown |
+| Sweet and gently spicy | Flavor and heat not yet taste-tested or described |
+
+## Follow-up notes
+
+Still to confirm: bean variety and quantity; whether refried beans were included; how much of the gravy packet was used; exact sausage quantity and cooking order; tomato paste size; final taste and thickness. **Do not infer a completed taste test from progress photos.**
 
 ---
 
-*Pāhoehoe Gardens · Variation based on Alex's October 20, 2026 cooking notes. Original recipe preserved separately.*
+*Pāhoehoe Gardens · Updated from Alex's October 20 cooking conversation and photos. Original recipe preserved separately. Earlier mistaken reference to baked beans in this variation has been corrected.*
