@@ -9,6 +9,7 @@ Welcome to RootRecord Recipes: approachable, flavorful meals with clear instruct
 ### Main dishes
 
 - [Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md) — Sweet-and-savory macaroni with Chinese-style sausage, beans, and a gentle chili kick.
+- [Volcanic Sausage Bean Mac — Quiet Eruption](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md) — No-pepper variation with Chinese-style sausage, tomato paste, onion, macaroni, and Bush's baked beans; cooking notes pending final taste test.
 
 ### Breakfast
 
