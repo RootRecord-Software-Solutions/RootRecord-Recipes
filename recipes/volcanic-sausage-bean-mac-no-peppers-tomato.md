@@ -6,7 +6,7 @@ This is a separate variation of [Volcanic Sausage Bean Mac](volcanic-sausage-bea
 
 ## What Alex reported or showed during cooking
 
-- **Elbow macaroni, chopped onions, and Chinese-style sausage:** the stated meal ingredients.
+- **Elbow macaroni, chopped onions, and Chinese-style sausage:** Alex cooked the sausage **whole in the same pot as the macaroni and onions**, then took it out to cut into pieces before returning it to the macaroni mixture, as shown in subsequent photographs.
 - **No jalapeños or Hawaiian chili peppers** on this occasion.
 - **One can of tomato paste** was planned and the later pot photograph shows a tomato-red sauce. The can size was not supplied.
 - A packet of **Great Value Reduced Sodium Brown Gravy Mix**, 0.87 oz (24 g), was photographed beside the pot with the comment "Fuck it." **Whether the full packet had already been stirred in was not explicitly confirmed.**
@@ -22,7 +22,7 @@ Amounts copied from the original are provided as a *reference*, **not** as verif
 | --- | --- |
 | Elbow macaroni | Present; original reference: 1 lb |
 | Onion, chopped | Present; original reference: 1 |
-| Chinese-style sausage | Intended as reported; original reference: approx. 21 oz Kam Yen Jan |
+| Chinese-style sausage | Confirmed cooked whole with macaroni and onions, then removed and sliced; original reference: approx. 21 oz Kam Yen Jan, exact amount in this batch not confirmed |
 | Tomato paste | 1 can reported; size unspecified |
 | Whole beans (not baked beans) | Visibly added; type and amount still unknown |
 | Reduced-sodium brown gravy mix | One 24 g Great Value packet shown; actual amount used not yet confirmed |
@@ -33,12 +33,12 @@ Amounts copied from the original are provided as a *reference*, **not** as verif
 
 ## Cooking approach
 
-1. **As established in the original:** cook macaroni and chopped onion together in water until tender, allowing the onion to flavor the cooking water. The photograph shows macaroni and onions in the pot.
-2. Cook the Chinese sausage completely according to the package instructions, separately or with the pasta only if the method permits proper cooking. **The exact step used today has not been confirmed.**
+1. **Confirmed sequence:** Alex put the **whole Chinese sausage into the pot with the macaroni and chopped onion**, and cooked them together in water. This is his actual one-pot method, not a separate sausage-cooking step.
+2. **Confirmed sequence:** After that cooking step, he **removed the sausage and cut it into thick pieces**. The cut sausage appears on a plate in one photograph. Ensure the sausage has reached any cooking requirements on its packaging; the duration and temperature were not recorded.
 3. Add tomato paste to the moist macaroni mixture, thinning with cooking water as needed. The pot is visibly tomato-red in later photos; exact timing and liquid amounts are not documented.
 4. Add the whole beans and heat through. **The photo confirms this step, but does not identify the beans.**
 5. **If using the photographed gravy packet:** disperse the powder in cool liquid first according to its directions to avoid clumping, then heat and stir until thickened. **This is a suggested method, not an assertion of the steps Alex used.**
-6. Incorporate the fully cooked sausage. Exact timing and finished consistency remain to be recorded.
+6. **Confirmed sequence:** Return the cut sausage pieces to the macaroni-and-bean mixture; a subsequent photograph shows the sausage added back to the pot. The exact stirring sequence relative to the tomato paste and gravy mix, and the finished consistency, have not been reported.
 
 ## What changed from the original
 
@@ -53,7 +53,7 @@ Amounts copied from the original are provided as a *reference*, **not** as verif
 
 ## Follow-up notes
 
-Still to confirm: bean variety and quantity; whether refried beans were included; how much of the gravy packet was used; exact sausage quantity and cooking order; tomato paste size; final taste and thickness. **Do not infer a completed taste test from progress photos.**
+Still to confirm: bean variety and quantity; whether refried beans were included; how much of the gravy packet was used; exact sausage quantity and cooking time; tomato paste size; final taste and thickness. **The sausage sequence is now confirmed: whole in the macaroni/onion pot → removed and sliced → returned to the mixture.** **Do not infer a completed taste test from progress photos.**
 
 ---
 
