@@ -9,7 +9,7 @@ Welcome to RootRecord Recipes: approachable, flavorful meals with clear instruct
 ### Main dishes
 
 - [Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md) — Sweet-and-savory macaroni with Chinese-style sausage, beans, and a gentle chili kick.
-- [Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md) — Pepper-free, **no baked beans**; tomato paste, Chinese sausage, macaroni, onions, whole beans of an as-yet-unconfirmed type, and a brown gravy packet shown during cooking. Final method/taste notes pending.
+- [Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md) — Pepper-free, **no baked beans**; tomato paste, Chinese sausage, macaroni, onions, whole beans of an as-yet-unconfirmed type, and a brown gravy packet shown during cooking. Alex's taste-test verdict: “Is good”; ingredient details still being confirmed.
 
 ### Breakfast
 
