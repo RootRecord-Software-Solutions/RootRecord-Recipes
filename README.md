@@ -8,6 +8,7 @@ Welcome to RootRecord Recipes: approachable, flavorful meals with clear instruct
 
 ### Main dishes
 
+- [Creamy Chicken & Vegetable Stew](recipes/creamy-chicken-vegetable-stew.md) — Pantry chicken, potatoes, carrots, green beans and onion in cream-of-mushroom-and-turkey-gravy broth made with saved vegetable cooking water.
 - [Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md) — Sweet-and-savory macaroni with Chinese-style sausage, beans, and a gentle chili kick.
 - [Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md) — Pepper-free, with **Van Camp's Pork & Beans in Tomato Sauce instead of Bush's baked beans**; tomato paste, Chinese sausage, macaroni, onions and a brown gravy packet shown during cooking. Alex's taste-test verdict: “Is good”; ingredient details still being confirmed.
 
