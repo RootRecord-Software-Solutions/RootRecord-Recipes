@@ -1,27 +1,18 @@
-# RootRecord Recipes
+# RootRecord Recipes — moved to the Library
 
-**Everyday cooking, clear instructions, and practical kitchen ideas.**
+The four **RootRecord Recipes** have been consolidated into the **RootRecord Library**, under **`Articles/Recipes/`**, along with the cookbook index and contributor guidance. The move was completed on October 23, 2026, with matching Git content hashes verified for all six preserved files.
 
-Welcome to the RootRecord Recipes cookbook. Find comforting meals, adaptable one-pot dishes, and simple breakfast favorites. Some recipes use measured quantities; others are intentionally flexible so you can adjust them to taste.
+**[Visit the RootRecord Library](https://www.rootrecord.cloud/library/)**
 
-## Browse recipes
+**[New cookbook source: Public-Library / Articles / Recipes](https://github.com/RootRecord-Software-Solutions/Public-Library/tree/main/Articles/Recipes)** — this destination repository is currently **private**, so it may be unavailable to visitors until the Library publishing rollout.
 
-### Main dishes
+## Previously published recipes
 
-- **[Creamy Chicken & Vegetable Stew](recipes/creamy-chicken-vegetable-stew.md)** — Chicken, potatoes, carrots, green beans, and a creamy mushroom-and-gravy broth.
-- **[Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md)** — Macaroni with Chinese-style sausage, beans, onion, and mild chili heat.
-- **[Quiet Eruption: Tomato Sausage Bean Mac](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md)** — A pepper-free variation with tomato paste and pork-and-beans in tomato sauce.
+Until the new reading experience is available, these **historical public snapshots** remain readable at the last pre-migration commit:
 
-### Breakfast
+- [Creamy Chicken & Vegetable Stew](https://github.com/RootRecord-Software-Solutions/RootRecord-Recipes/blob/27116df38bad7c593b17cb67c8282b63a30ca0cf/recipes/creamy-chicken-vegetable-stew.md)
+- [Volcanic Sausage Bean Mac](https://github.com/RootRecord-Software-Solutions/RootRecord-Recipes/blob/27116df38bad7c593b17cb67c8282b63a30ca0cf/recipes/volcanic-sausage-bean-mac.md)
+- [Quiet Eruption: Tomato Sausage Bean Mac](https://github.com/RootRecord-Software-Solutions/RootRecord-Recipes/blob/27116df38bad7c593b17cb67c8282b63a30ca0cf/recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md)
+- [Rainforest Banana Cream Pancakes](https://github.com/RootRecord-Software-Solutions/RootRecord-Recipes/blob/27116df38bad7c593b17cb67c8282b63a30ca0cf/recipes/rainforest-banana-cream-pancakes.md)
 
-- **[Rainforest Banana Cream Pancakes](recipes/rainforest-banana-cream-pancakes.md)** — Buttermilk pancakes flavored with banana pudding mix and cinnamon, finished with bananas and chocolate-hazelnut spread.
-
-## About this cookbook
-
-These recipes emphasize approachable ingredients, clear preparation steps, and the flexibility of cooking at home. For recipes without exact quantities, start with the ingredients you have and adjust according to taste and consistency.
-
-New recipes will appear here after review for clarity, accuracy, and public suitability. To suggest an addition or correction, see [Contributing](CONTRIBUTING.md).
-
----
-
-**RootRecord Software Systems** · [Website](https://www.rootrecord.cloud/)
+This repository is retained for the historical record and old links, **not as a second active cookbook**. New edits should go through the RootRecord Library publishing process. Moving files does not erase the old Git history.
