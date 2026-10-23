@@ -1,6 +1,6 @@
 # Volcanic Sausage Bean Mac
 
-A hearty, one-pot macaroni dish with Chinese-style sausage, tender beans, onion, and a blend of jalapeño and Hawaiian chili peppers. Sweet brown sugar baked beans balance the peppers, creating a rich, savory meal with a gentle lingering warmth.
+A hearty macaroni dish featuring Chinese-style sausage, beans, onion, and chili peppers. Brown-sugar pork-and-beans balance the peppers with a sweet-and-savory finish.
 
 ## Ingredients
 
@@ -9,28 +9,27 @@ A hearty, one-pot macaroni dish with Chinese-style sausage, tender beans, onion,
 - 3 jalapeño peppers, chopped
 - 4 small Hawaiian chili peppers, halved lengthwise
 - 1 can refried beans
-- 2 cans Bush's brown sugar pork and beans
-- Approximately 21 oz Kam Yen Jan Chinese-style sausage, sliced (about half a 42 oz package)
+- 2 cans brown-sugar pork-and-beans
+- Approximately 21 oz Chinese-style sausage, sliced
 - Water, for cooking the macaroni
 
 ## Instructions
 
-1. Add the macaroni, onion, jalapeños, and halved Hawaiian chili peppers to a pot of water. Cook until the pasta is tender, allowing the vegetables to flavor the cooking water.
-2. Cook the sliced Chinese-style sausage thoroughly according to its package directions. It may be cooked separately or alongside the pasta if the cooking time and method are sufficient.
-3. Drain off excess pasta water, leaving the mixture moist but not soupy.
-4. Remove the pot from the heat. Stir in the refried beans and both cans of brown sugar pork and beans. Mix until the pasta is evenly coated and the beans are heated through; return briefly to low heat if needed.
+1. Put the macaroni, onion, jalapeños, and Hawaiian chili peppers in a pot of water. Cook until the pasta is tender.
+2. Cook the Chinese-style sausage thoroughly according to its package instructions. It may be cooked separately or with the pasta if the cooking method and time are sufficient for the sausage.
+3. Drain excess cooking water, leaving enough moisture to make the final mixture easy to stir.
+4. Remove the pot from the heat and stir in the refried beans and brown-sugar pork-and-beans. Return briefly to low heat if needed, until everything is thoroughly heated.
 5. Fold in the fully cooked sausage and serve warm.
 
-## Flavor and Texture
+## Flavor and texture
 
-The finished dish is thick and hearty, with sweet-and-savory beans and sausage taking the lead. Despite the seven peppers, the heat is subtle, leaving a mild tingle rather than a pronounced burn.
+The result is thick and filling, with beans and sausage providing a sweet-and-savory base and peppers adding gentle heat.
 
-## Cooking Tips
+## Cooking tips
 
-- Cooking the onion and peppers with the pasta infuses flavor without requiring a second pot.
-- Keep the pot covered when practical and use a gentle boil to conserve fuel.
-- Stirring in canned beans after switching off the burner can save fuel, provided everything is heated through.
-- For a spicier version, adjust the amount or timing of the chili peppers to taste.
+- Cooking onion and peppers alongside the pasta helps carry their flavor through the dish.
+- Keep the pot covered when practical and use a controlled boil to conserve cooking fuel.
+- Adjust the peppers to suit your preferred level of spice.
+- The pepper-free [Quiet Eruption variation](volcanic-sausage-bean-mac-no-peppers-tomato.md) uses tomato paste and pork-and-beans in tomato sauce instead.
 
----
-*Recipe from Pāhoehoe Gardens.*
+[← Back to RootRecord Recipes](../README.md)

@@ -1,36 +1,30 @@
 # Rainforest Banana Cream Pancakes
 
-**From the Pāhoehoe Gardens kitchen — original recipe by Alex**
+Buttermilk pancakes with banana pudding mix and cinnamon in the batter, topped with sliced fresh bananas and chocolate-hazelnut spread.
 
-**Style: Cook by feel — no measuring.**
+This is a **cook-by-feel recipe**. Ingredient amounts are flexible rather than fixed.
 
-Buttermilk pancakes flavored with banana pudding mix and cinnamon, topped with sliced bananas and generous globs of Nutella.
+## Ingredients
 
-## What goes in
-
-- Krusteaz buttermilk pancake mix
+- Buttermilk pancake mix
 - Banana pudding mix
 - Cinnamon
-- Water
+- Water, according to the desired batter consistency
 - Fresh bananas, sliced
-- Nutella — generous globs
+- Nutella or another chocolate-hazelnut spread, for topping
 
-No measured amounts: Alex doesn't measure ingredients when cooking. Make as much as you want and adjust by feel.
+## Instructions
 
-## How to make them
+1. Add buttermilk pancake mix to a mixing bowl.
+2. Stir in banana pudding mix and cinnamon to taste.
+3. Gradually mix in water until the batter reaches your preferred pancake consistency. Add a little more water if too thick, or more pancake mix if too thin.
+4. Cook the batter on a skillet or griddle according to the pancake mix directions, turning as needed until cooked through.
+5. Top the finished pancakes with sliced bananas and chocolate-hazelnut spread.
 
-1. Put some buttermilk pancake mix in a bowl.
-2. Mix in banana pudding mix and cinnamon by feel.
-3. Stir in water until the batter has the consistency you like for pancakes. If too thick, add more water; if too thin, add more pancake mix.
-4. Cook the pancakes on a skillet or griddle until done, turning as needed.
-5. Top with sliced fresh bananas and generous globs of Nutella.
+## Tips
 
-## Notes from the kitchen
+- The banana pudding mix and cinnamon belong **in the batter**.
+- Add the fresh bananas and chocolate-hazelnut spread **after cooking**.
+- Adjust the flavor and texture by feel; exact measurements are not required for this variation.
 
-- Banana pudding mix and cinnamon are **in the pancake batter**.
-- Sliced bananas and Nutella go **on top**.
-- This is Alex's original combination, not a standardized, measured formula.
-- Batter adjustment and skillet instructions are practical cooking guidance; Alex hasn't specified an exact cooking procedure or amounts.
-- The defining rule: **cook by feel, not by measuring cups.**
-
-*First recorded October 16, 2026. Updated to reflect Alex's no-measuring cooking style.*
+[← Back to RootRecord Recipes](../README.md)

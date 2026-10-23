@@ -1,24 +1,27 @@
 # RootRecord Recipes
 
-**A collection of practical, delicious recipes from Pāhoehoe Gardens.**
+**Everyday cooking, clear instructions, and practical kitchen ideas.**
 
-Welcome to RootRecord Recipes: approachable, flavorful meals with clear instructions and useful cooking tips.
+Welcome to the RootRecord Recipes cookbook. Find comforting meals, adaptable one-pot dishes, and simple breakfast favorites. Some recipes use measured quantities; others are intentionally flexible so you can adjust them to taste.
 
-## Recipes
+## Browse recipes
 
 ### Main dishes
 
-- [Creamy Chicken & Vegetable Stew](recipes/creamy-chicken-vegetable-stew.md) — Pantry chicken, potatoes, carrots, green beans and onion in cream-of-mushroom-and-turkey-gravy broth made with saved vegetable cooking water.
-- [Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md) — Sweet-and-savory macaroni with Chinese-style sausage, beans, and a gentle chili kick.
-- [Volcanic Sausage Bean Mac — Quiet Eruption (The "Fuck It" Edition)](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md) — Pepper-free, with **Van Camp's Pork & Beans in Tomato Sauce instead of Bush's baked beans**; tomato paste, Chinese sausage, macaroni, onions and a brown gravy packet shown during cooking. Alex's taste-test verdict: “Is good”; ingredient details still being confirmed.
+- **[Creamy Chicken & Vegetable Stew](recipes/creamy-chicken-vegetable-stew.md)** — Chicken, potatoes, carrots, green beans, and a creamy mushroom-and-gravy broth.
+- **[Volcanic Sausage Bean Mac](recipes/volcanic-sausage-bean-mac.md)** — Macaroni with Chinese-style sausage, beans, onion, and mild chili heat.
+- **[Quiet Eruption: Tomato Sausage Bean Mac](recipes/volcanic-sausage-bean-mac-no-peppers-tomato.md)** — A pepper-free variation with tomato paste and pork-and-beans in tomato sauce.
 
 ### Breakfast
 
-- [How Alex Makes Coffee](recipes/how-alex-makes-coffee.md) — The official hot, evaporated-milk, concentrate-first coffee and Alex's recycled Pepsi-bottle instant coffee made with room-temperature water. Rainwater-specific steps remain unconfirmed.
-- [Rainforest Banana Cream Pancakes](recipes/rainforest-banana-cream-pancakes.md) — Alex's buttermilk pancakes with banana pudding mix and cinnamon in the batter, topped with fresh bananas and generous Nutella.
+- **[Rainforest Banana Cream Pancakes](recipes/rainforest-banana-cream-pancakes.md)** — Buttermilk pancakes flavored with banana pudding mix and cinnamon, finished with bananas and chocolate-hazelnut spread.
 
-## About
+## About this cookbook
 
-Recipes are written for home cooks, with ingredients, instructions, and practical notes for repeatable results. Some recipes also feature fuel-conscious, one-pot techniques.
+These recipes emphasize approachable ingredients, clear preparation steps, and the flexibility of cooking at home. For recipes without exact quantities, start with the ingredients you have and adjust according to taste and consistency.
 
-More recipes coming soon.
+New recipes will appear here after review for clarity, accuracy, and public suitability. To suggest an addition or correction, see [Contributing](CONTRIBUTING.md).
+
+---
+
+**RootRecord Software Systems** · [Website](https://www.rootrecord.cloud/)
